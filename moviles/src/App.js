@@ -1,4 +1,4 @@
-import logo from './horchatadetacuazin.jpg';
+import logo from './Panda.png';
 import './App.css';
 
 function App() {
